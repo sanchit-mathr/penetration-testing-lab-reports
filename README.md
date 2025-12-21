@@ -28,6 +28,7 @@ Each machine is tested using a standard penetration testing lifecycle:
 7. Documentation & Reporting
 
 ---
+## Repository Structure
 penetration-testing-lab-reports/
 │
 ├── Academy/
