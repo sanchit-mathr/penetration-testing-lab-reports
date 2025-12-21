@@ -28,4 +28,33 @@ Each machine is tested using a standard penetration testing lifecycle:
 7. Documentation & Reporting
 
 ---
+penetration-testing-lab-reports/
+│
+├── Academy/
+│   ├── report.pdf
+│   ├── screenshots/
+│   └── README.md
+│
+├── Dev/
+│   ├── report.pdf
+│   ├── screenshots/
+│   └── README.md
+│
+├── Blackpearl/
+│   ├── report.pdf
+│   ├── screenshots/
+│   └── README.md
+│
+├── EternalBlue/
+│   ├── report.pdf
+│   ├── screenshots/
+│   └── README.md
+│
+├── Windows10-Hijacking/
+│   ├── report.pdf
+│   ├── screenshots/
+│   └── README.md
+│
+└── README.md
+
 
