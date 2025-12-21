@@ -29,5 +29,3 @@ Each machine is tested using a standard penetration testing lifecycle:
 
 ---
 
-## 📂 Repository Structure
-
