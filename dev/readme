@@ -1,4 +1,33 @@
+# Dev (Boltwire) – Penetration Testing Report
 
+## Machine Overview
+- **Machine Name:** Dev (Boltwire)
+- **Environment:** Local Lab (Intentionally Vulnerable)
+- **Assessment Type:** Penetration Testing
+- **Initial Access:** Unauthenticated External Attacker
+- **Final Goal:** Root Access
+- **Author:** Sanchit Mathur
+
+---
+
+## Objective
+The objective of this assessment was to identify exposed services, enumerate vulnerabilities, gain initial access, escalate privileges, and achieve full system compromise while following a structured penetration testing methodology.
+
+---
+
+## Attack Chain Overview
+The machine was compromised by chaining together multiple low-severity misconfigurations and vulnerabilities:
+Nmap Enumeration
+→ FFUF Directory Discovery
+→ NFS Enumeration
+→ save.zip Disclosure
+→ Credential & SSH Key Extraction
+→ Boltwire CMS Enumeration
+→ Local File Inclusion (LFI)
+→ SSH Access
+→ Sudo Misconfiguration
+→ GTFOBins (zip) Exploitation
+→ Root Access
 This demonstrates how improper system hardening can lead to complete compromise without the use of advanced exploits.
 
 ---
