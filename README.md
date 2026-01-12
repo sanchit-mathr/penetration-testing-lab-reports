@@ -45,17 +45,5 @@ penetration-testing-lab-reports/
 │   ├── report.pdf
 │   ├── screenshots/
 │   └── README.md
-│
-├── EternalBlue/
-│   ├── report.pdf
-│   ├── screenshots/
-│   └── README.md
-│
-├── Windows10-Hijacking/
-│   ├── report.pdf
-│   ├── screenshots/
-│   └── README.md
-│
-└── README.md
 
 
